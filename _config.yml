@@ -1,9 +1,9 @@
 # Site settings
 title: "Jekyll template"
-url: "//ihavee.github.io"
+url: "//zjon.github.io"
 paginate: 5
 author:
-    name: Havee
+    name: zjon
     github:
     email:
     gitcafe:
